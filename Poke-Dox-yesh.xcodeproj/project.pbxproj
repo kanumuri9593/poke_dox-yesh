@@ -12,6 +12,7 @@
 		120511A81C41C08100FA98E5 /* PokemonSolid.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 120511A71C41C08100FA98E5 /* PokemonSolid.ttf */; };
 		120511AA1C41CEF700FA98E5 /* music.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 120511A91C41CEF700FA98E5 /* music.mp3 */; };
 		120511AC1C41E1AB00FA98E5 /* PokemonDetailVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 120511AB1C41E1AB00FA98E5 /* PokemonDetailVC.swift */; };
+		1250A7801C42BBC4000A2D4C /* constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1250A77F1C42BBC4000A2D4C /* constants.swift */; };
 		12554D3A1C4179D900613F1A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12554D391C4179D900613F1A /* AppDelegate.swift */; };
 		12554D3C1C4179D900613F1A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 12554D3B1C4179D900613F1A /* ViewController.swift */; };
 		12554D421C4179D900613F1A /* Poke_Dox_yesh.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 12554D401C4179D900613F1A /* Poke_Dox_yesh.xcdatamodeld */; };
@@ -30,6 +31,7 @@
 		120511A71C41C08100FA98E5 /* PokemonSolid.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = PokemonSolid.ttf; sourceTree = "<group>"; };
 		120511A91C41CEF700FA98E5 /* music.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = music.mp3; sourceTree = "<group>"; };
 		120511AB1C41E1AB00FA98E5 /* PokemonDetailVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PokemonDetailVC.swift; sourceTree = "<group>"; };
+		1250A77F1C42BBC4000A2D4C /* constants.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = constants.swift; sourceTree = "<group>"; };
 		12554D361C4179D900613F1A /* Poke-Dox-yesh.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Poke-Dox-yesh.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		12554D391C4179D900613F1A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		12554D3B1C4179D900613F1A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -69,6 +71,7 @@
 			children = (
 				120511A21C41B44300FA98E5 /* csv.swift */,
 				120511A71C41C08100FA98E5 /* PokemonSolid.ttf */,
+				1250A77F1C42BBC4000A2D4C /* constants.swift */,
 			);
 			name = util;
 			sourceTree = "<group>";
@@ -282,6 +285,7 @@
 				12554D521C417F1000613F1A /* pokemon.swift in Sources */,
 				12554D421C4179D900613F1A /* Poke_Dox_yesh.xcdatamodeld in Sources */,
 				120511AC1C41E1AB00FA98E5 /* PokemonDetailVC.swift in Sources */,
+				1250A7801C42BBC4000A2D4C /* constants.swift in Sources */,
 				12554D3A1C4179D900613F1A /* AppDelegate.swift in Sources */,
 				120511A11C419C4C00FA98E5 /* pokeCell.swift in Sources */,
 			);
